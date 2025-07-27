@@ -1,0 +1,6 @@
+train: C:\Users\HP\Desktop\Master 2 IABD\Semestre 1\Deep Learning\TP yolo\id_card_dataset_detection\train\images
+val: C:\Users\HP\Desktop\Master 2 IABD\Semestre 1\Deep Learning\TP yolo\id_card_dataset_detection\valid\images
+
+nc: 1
+names:
+  0: text
