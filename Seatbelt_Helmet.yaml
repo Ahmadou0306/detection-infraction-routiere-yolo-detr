@@ -1,0 +1,14 @@
+names:
+- '0'
+- car
+- helmet
+- license plate
+- motorcycle
+- no helmet
+- no seat belt
+- person
+- seatbelt
+nc: 9
+test: C:\Users\HP\Desktop\Master 2 IABD\Semestre 1\Deep Learning\Seatbelt Helmet Detection\Seatbelt Helmet Detection.v6i.yolov8_no_augmented\test
+train: C:\Users\HP\Desktop\Master 2 IABD\Semestre 1\Deep Learning\Seatbelt Helmet Detection\Seatbelt Helmet Detection.v6i.yolov8_no_augmented\train
+val: C:\Users\HP\Desktop\Master 2 IABD\Semestre 1\Deep Learning\Seatbelt Helmet Detection\Seatbelt Helmet Detection.v6i.yolov8_no_augmented\valid

@@ -1,0 +1,9 @@
+model_detr_augmented_result/
+model_detr_augmented_result/
+*.ckpt
+*.safetensors
+*.pt
+*.zip
+TEST Yolo detr sur carte identite/
+yolo_trained_augmented/
+yolo_trained_no_augmented/
